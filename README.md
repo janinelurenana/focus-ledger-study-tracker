@@ -71,9 +71,9 @@ focus-ledger-study-tracker/
 ├── test_study_tracker.py   # Unit tests (pytest)
 ├── requirements.txt
 ├── .gitignore
-└── .streamlit/
-    └── config.toml
-
+├── .streamlit/
+|   └── config.toml
+└── README.md
 ```
 
 ---
